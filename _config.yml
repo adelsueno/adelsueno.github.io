@@ -18,6 +18,8 @@ avatar: /images/twitter_profile_image.png
 # Flags below are optional
 #
 
+locale: es_ES
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
