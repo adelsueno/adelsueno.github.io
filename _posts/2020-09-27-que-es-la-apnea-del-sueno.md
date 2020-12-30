@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Qué es la apnea del sueño?
+locale: "de_DE"
 categories: [apnea]
 ---
 
